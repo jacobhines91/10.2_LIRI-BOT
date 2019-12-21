@@ -17,13 +17,13 @@ do-what-it-says
 
 
 ## Screenshots 
-![screenshots - concert-this](screenshots\concert-this.png?raw=true "concert-this")
+![screenshots - concert-this](https://user-images.githubusercontent.com/51860566/71312019-e5541100-23eb-11ea-878b-dc083e28f10e.png)
 
-![screenshots - spotify-this](screenshots\spotify-this.png?raw=true "spotify-this")
+![screenshots - spotify-this](https://user-images.githubusercontent.com/51860566/71312020-e5541100-23eb-11ea-8f06-beeb4359865c.png)
 
-![screenshots - movie-this](screenshots\movie-this.png?raw=true "movie-this")
+![screenshots - movie-this](https://user-images.githubusercontent.com/51860566/71312021-e5541100-23eb-11ea-8c91-eb548cf7092d.png)
 
-![screenshots - do-what-it-says](screenshots\do-what-it-says.png?raw=true "do-what-it-says")
+![screenshots - do-what-it-says](https://user-images.githubusercontent.com/51860566/71312022-e5541100-23eb-11ea-8227-9b55d28e3e1c.png)
 
 
 
