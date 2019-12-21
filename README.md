@@ -17,13 +17,13 @@ do-what-it-says
 
 
 ## Screenshots 
-![screenshots - concert-this](screenshots\concert-this.png)
+![screenshots - concert-this](screenshots\concert-this.png?raw=true "concert-this")
 
-![screenshots - spotify-this](screenshots\spotify-this.png)
+![screenshots - spotify-this](screenshots\spotify-this.png?raw=true "spotify-this")
 
-![screenshots - movie-this](screenshots\movie-this.png)
+![screenshots - movie-this](screenshots\movie-this.png?raw=true "movie-this")
 
-![screenshots - do-what-it-says](screenshots\do-what-it-says.png)
+![screenshots - do-what-it-says](screenshots\do-what-it-says.png?raw=true "do-what-it-says")
 
 
 
