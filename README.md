@@ -17,12 +17,15 @@ do-what-it-says
 
 
 ## Screenshots 
-![Screenshot - concert-this](screenshots\concert-this.png)
-![Screenshot - spotify-this](screenshots\spotify-this.png)
+![screenshots - concert-this](screenshots\concert-this.png)
 
-![Screenshot - movie-this](screenshots\movie-this.png)
+![screenshots - spotify-this](screenshots\spotify-this.png)
 
-![Screenshot - do-what-it-says](screenshots\do-what-it-says.png)
+![screenshots - movie-this](screenshots\movie-this.png)
+
+![screenshots - do-what-it-says](screenshots\do-what-it-says.png)
+
+
 
 ## Author
 Jacob Hines
