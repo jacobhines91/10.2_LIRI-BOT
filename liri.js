@@ -131,8 +131,8 @@ function movieThis(movie) {
     }
 } 
 function doWhatItSays() {
-    
-    fs.readFile("random.txt", "utf8", function (err, data) {
+
+ fs.readFile("random.txt", "utf8", function (err, data) {
         if (err) throw err;
 
         var dataArr = data.split(",");
